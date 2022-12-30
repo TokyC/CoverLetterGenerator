@@ -1,0 +1,6 @@
+transformers
+torch
+torchvision
+datasets
+wandb
+pytorch-lightning
